@@ -1,6 +1,8 @@
 # UCAS_Image-Processing_2023Fall
 国科大2023Fall-图像处理课程作业 ***(To be finished)***
 
+课程教材：冈萨雷斯数字图像处理（第二版）以及Matlab版
+
 | 章节知识点(Chapter)                                                                                      | 作业(Homework)  | 
 | :------------------------------------------------------------------------------------------------------- | ----------------| 
 | Spatial Enhancement, Histogram Equalization                                                              | HW-1            | 
