@@ -12,3 +12,5 @@
 | Image Restoration, Image Blur due to Motion                                                              | HW-5            | 
 | Color Image Processing, Color Space, Geometric Distortion Correction                                     | HW-6            | 
 | Subband Coding, Z-transform, Image Pyramids, Perfect Construction Filter Banks(PCFB), Haar Transform     | HW-7            | 
+| Inner product space, Discrete Wavelets Transform(DWT), Multi-resolution analysis(MRA)                    | HW-8            | 
+
