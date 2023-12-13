@@ -1,6 +1,8 @@
 # UCAS_Image-Processing_2023Fall
 国科大2023Fall-图像处理课程作业 ***(To be finished)***
 
+by 中国科学院大学计算机科学与技术学院 王伟强教授
+
 课程教材：冈萨雷斯数字图像处理（第二版）以及Matlab版
 
 | 章节知识点(Chapter)                                                                                      | 作业(Homework)  | 
