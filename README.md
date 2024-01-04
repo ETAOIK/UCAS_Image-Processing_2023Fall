@@ -1,5 +1,5 @@
 # UCAS_Image-Processing_2023Fall
-国科大2023Fall-图像处理课程作业 ***(To be finished)***
+国科大2023Fall-图像处理课程作业
 
 by 中国科学院大学计算机科学与技术学院 王伟强教授
 
